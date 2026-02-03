@@ -1,0 +1,33 @@
+{
+  "meta": {
+    "aspect_ratio": "1:1",
+    "quality": "ultra_realistic",
+    "resolution": "4k",
+    "camera": "iPhone 15 Pro",
+    "lens": "52mm",
+    "style": "natural creator headshot, realistic skin texture, subtle grain"
+  },
+  "reference": {
+    "identity_anchor": "Use the uploaded reference image for face, hair color, hairstyle, and overall identity consistency."
+  },
+  "subject": {
+    "name": "Adeya",
+    "hair": "long wavy platinum blonde hair, center part, slightly darker roots",
+    "face": "oval face, defined brows, light eyes, warm bright smile",
+    "makeup": "natural, minimal, dewy skin, subtle lip color",
+    "wardrobe": white floral embroidered top, high waist light denim jeans, denim jacket draped over shoulders"
+    "pose": "one hand holding phone covering part of face, relaxed smile", 
+    "props": "phone with blank case",
+  },
+"scene": 
+    "location": "minimal apartment hallway", 
+    "background": "full length mirror, warm neutral walls, soft shadows",             
+    "time": "golden hour" 
+},
+  },
+  "lighting": {
+    "type": "warm window light",
+    "effect": "soft highlights, natural skin texture"
+  },
+  "negative_prompt": "readable text, logos, watermark, heavy beauty filters, plastic skin, uncanny face, distorted teeth, extra fingers, misshapen hands"
+}
